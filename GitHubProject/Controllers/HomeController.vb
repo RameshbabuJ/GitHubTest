@@ -2,6 +2,7 @@
     Inherits System.Web.Mvc.Controller
 
     Function Index() As ActionResult
+        'test
         Return View()
     End Function
 
